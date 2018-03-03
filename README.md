@@ -1,5 +1,7 @@
+## What is this repository for?
+> This repo provides the automated-parser for given Panel Report of WTO ruling body. Through using the code, you can access to 1) Which Chpaters does the PDF have? 2) Abridge exact chapter or part you want 3) Whether the Article III of GATT has been cited or not 
 
-   ## Import WTO_parser and Panel_parser from parser.py
+## Import WTO_parser and Panel_parser from parser.py
 
 
 ```python
